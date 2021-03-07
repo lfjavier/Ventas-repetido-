@@ -1,4 +1,4 @@
- /* importe total de cada venta, de mayor a menor*/ 
+ /* importe total de cada venta, de mayor a menor*/ .
  
  db.ventas.aggregate(
         [
